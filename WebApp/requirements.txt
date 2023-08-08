@@ -21,3 +21,4 @@ scikit-learn
 pandas
 azure-cosmos
 azure-core
+dtreeviz==1.4.0
