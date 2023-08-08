@@ -10,7 +10,7 @@ from dash import html, dash_table
 from explainerdashboard.custom import *
 # from explainerdashboard import ClassifierExplainer
 
-res_dist_dir = '../resources/distance/'
+res_dist_dir = 'WebApp/resources/distance/'
 
 ###
 # Classes for different Explainability tabs
